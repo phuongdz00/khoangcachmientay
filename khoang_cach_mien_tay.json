@@ -420,3 +420,95 @@
     "Đà Lạt": 306
   }
 }
+{
+      "loaiXeHoacTenXe": "Xe 4 Chỗ",
+      "soChoNgoi": 4,
+      "giaDichVuMoiKm_VND": 10000,
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Kia Carnival Luxury 8 Chỗ",
+      "soChoNgoi": 8,
+      "giaDichVuMoiKm_VND": 22000,
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Kia Carnival Premium 7 Chỗ",
+      "soChoNgoi": 7,
+      "giaDichVuMoiKm_VND": 18000,
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Kia Carnival Signature 7 chỗ",
+      "soChoNgoi": 7,
+      "giaDichVuMoiKm_VND": 20000,
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Kia Carnival Signature 8 chỗ",
+      "soChoNgoi": 8,
+      "giaDichVuMoiKm_VND": 22000,
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Veloz Cross 7 Chỗ",
+      "soChoNgoi": 7,
+      "giaDichVuMoiKm_VND": 12000,
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Innova 8 Chỗ",
+      "soChoNgoi": 8,
+      "giaDichVuMoiKm_VND": 11000,
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Fortuner 7 Chỗ",
+      "soChoNgoi": 7,
+      "giaDichVuMoiKm_VND": 12000,
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Xpander 7 Chỗ",
+      "soChoNgoi": 7,
+      "giaDichVuMoiKm_VND": 12000,
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Kia Seltos 5 Chỗ (Gầm cao)",
+      "soChoNgoi": 5,
+      "giaDichVuMoiKm_VND": 10500,
+      "ghiChu": "Giá dịch vụ tham khảo"
+    },
+    {
+      "loaiXeHoacTenXe": "Hyundai Grand i10 5 Chỗ",
+      "soChoNgoi": 5,
+      "giaDichVuMoiKm_VND": 10500,
+      "ghiChu": "Giá dịch vụ tham khảo"
+    },
+    {
+      "loaiXeHoacTenXe": "Toyota Vios 5 Chỗ",
+      "soChoNgoi": 5,
+      "giaDichVuMoiKm_VND": 10500,
+      "ghiChu": "Giá dịch vụ tham khảo"
+    },
+    {
+      "loaiXeHoacTenXe": "Mazda CX-5 5 Chỗ",
+      "soChoNgoi": 5,
+      "giaDichVuMoiKm_VND": 10500,
+      "ghiChu": "Giá dịch vụ tham khảo"
+    },
+    {
+      "loaiXeHoacTenXe": "Limousine 9/10 Chỗ",
+      "soChoNgoi": "9-10",
+      "giaDichVuMoiKm_VND": "Liên Hệ",
+      "ghiChu": null
+    },
+    {
+      "loaiXeHoacTenXe": "Limousine 11/12 Chỗ",
+      "soChoNgoi": "11-12",
+      "giaDichVuMoiKm_VND": "Liên Hệ",
+      "ghiChu": null
+    }
+  ]
+}
