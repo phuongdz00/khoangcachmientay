@@ -420,8 +420,8 @@
     "Đà Lạt": 306
   }
 }
-"ghiChuBangGiaDichVu": "Bảng giá dịch vụ vận chuyển/cho thuê xe tham khảo theo loại xe. 'Liên Hệ' để biết chi tiết giá chính xác tại thời điểm yêu cầu.",
-  "bangGiaDichVuTheoXe":
+ "ghiChuBangGiaDichVu": "Bảng giá dịch vụ vận chuyển/cho thuê xe tham khảo theo loại xe. 'Liên Hệ' để biết chi tiết giá chính xác tại thời điểm yêu cầu.",
+  "bangGiaDichVuTheoXe": [ 
     {
       "loaiXeHoacTenXe": "Xe 4 Chỗ (Phổ thông)",
       "soChoNgoi": 4,
