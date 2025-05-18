@@ -526,12 +526,11 @@
       "ghiChu": null
     },
     {
-      "loaiXeHoacTenXe": "Các dòng khác (Mercedes, Audi, Rollroys, ...)",
-      "soChoNgoi": "11-12",
-      "giaDichVuMoiKm_VND": 
-      "den100km": "Liên Hệ",
-      "tren100km": "Liên Hệ"
-      "ghiChu": null
-    } 
-  ] 
+  "loaiXeHoacTenXe": "Các dòng khác (Mercedes, Audi, Rollroys, ...)",
+  "soChoNgoi": "11-12",
+  "giaDichVuMoiKm_VND": {
+    "den100km": "Liên Hệ",
+    "tren100km": "Liên Hệ"
+  },
+  "ghiChu": null
 }
