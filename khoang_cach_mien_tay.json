@@ -512,19 +512,25 @@
     {
       "loaiXeHoacTenXe": "Limousine 9/10 Chỗ",
       "soChoNgoi": "9-10",
-      "giaDichVuMoiKm_VND": "Liên Hệ",
+      "giaDichVuMoiKm_VND": 
+      "den100km": "Liên Hệ",
+      "tren100km": "Liên Hệ"
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Limousine 11/12 Chỗ",
       "soChoNgoi": "11-12",
-      "giaDichVuMoiKm_VND": "Liên Hệ",
+      "giaDichVuMoiKm_VND": 
+      "den100km": "Liên Hệ",
+      "tren100km": "Liên Hệ"
       "ghiChu": null
     },
     {
-      "loaiXeHoacTenXe": "Xe Khác Theo Yêu Cầu",
+      "loaiXeHoacTenXe": "Các dòng khác (Mercedes, Audi, Rollroys, ...",
       "soChoNgoi": "11-12",
-      "giaDichVuMoiKm_VND": "Liên Hệ",
+      "giaDichVuMoiKm_VND": 
+      "den100km": "Liên Hệ",
+      "tren100km": "Liên Hệ"
       "ghiChu": null
     } 
   ] 
