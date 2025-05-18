@@ -419,9 +419,9 @@
     "Mũi Né - Phan Thiết": 226,
     "Đà Lạt": 306
   },
- {
+{
   "ghiChuBangGiaDichVu": "Bảng giá dịch vụ vận chuyển/cho thuê xe tham khảo theo loại xe. 'Liên Hệ' để biết chi tiết giá chính xác tại thời điểm yêu cầu.",
-  "bangGiaDichVuTheoXe": [ 
+  "bangGiaDichVuTheoXe": [
     {
       "loaiXeHoacTenXe": "Xe 4 Chỗ (Phổ thông)",
       "soChoNgoi": 4,
@@ -450,7 +450,7 @@
       "ghiChu": null
     },
     {
-      "loaiXeHoacTenXe": "Veloz Cross 7 Chỗ", 
+      "loaiXeHoacTenXe": "Veloz Cross 7 Chỗ",
       "soChoNgoi": 7,
       "giaDichVuMoiKm_VND": {
         "den100km": 12000,
@@ -468,7 +468,7 @@
       "ghiChu": null
     },
     {
-      "loaiXeHoacTenXe": "Fortuner 7 Chỗ", 
+      "loaiXeHoacTenXe": "Fortuner 7 Chỗ",
       "soChoNgoi": 7,
       "giaDichVuMoiKm_VND": {
         "den100km": 12000,
@@ -548,5 +548,5 @@
       },
       "ghiChu": null
     }
-  ] 
+  ]
 }
