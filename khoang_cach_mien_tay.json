@@ -419,118 +419,134 @@
     "Mũi Né - Phan Thiết": 226,
     "Đà Lạt": 306
   },
- "ghiChuBangGiaDichVu": "Bảng giá dịch vụ vận chuyển/cho thuê xe tham khảo theo loại xe. 'Liên Hệ' để biết chi tiết giá chính xác tại thời điểm yêu cầu.",
+ {
+  "ghiChuBangGiaDichVu": "Bảng giá dịch vụ vận chuyển/cho thuê xe tham khảo theo loại xe. 'Liên Hệ' để biết chi tiết giá chính xác tại thời điểm yêu cầu.",
   "bangGiaDichVuTheoXe": [ 
     {
       "loaiXeHoacTenXe": "Xe 4 Chỗ (Phổ thông)",
       "soChoNgoi": 4,
-      "giaDichVuMoiKm_VND":       
-      "den100km": 9500,
-      "tren100km": 8500
+      "giaDichVuMoiKm_VND": {
+        "den100km": 8500,
+        "tren100km": 9500
+      },
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Kia Carnival 7 Chỗ",
       "soChoNgoi": 7,
-      "giaDichVuMoiKm_VND":  
-      "den100km": 25000,
-      "tren100km": 19000
+      "giaDichVuMoiKm_VND": {
+        "den100km": 25000,
+        "tren100km": 19000
+      },
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Kia Carnival 8 chỗ",
       "soChoNgoi": 8,
-      "giaDichVuMoiKm_VND": 
-      "den100km": 25000,
-      "tren100km": 19000
+      "giaDichVuMoiKm_VND": {
+        "den100km": 25000,
+        "tren100km": 19000
+      },
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Veloz Cross 7 Chỗ", 
       "soChoNgoi": 7,
-      "giaDichVuMoiKm_VND": 
-      "den100km": 12000,
-      "tren100km": 9500
+      "giaDichVuMoiKm_VND": {
+        "den100km": 12000,
+        "tren100km": 9500
+      },
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Innova 8 Chỗ",
       "soChoNgoi": 8,
-      "giaDichVuMoiKm_VND": 
-      "den100km": 12000,
-      "tren100km": 9500
+      "giaDichVuMoiKm_VND": {
+        "den100km": 12000,
+        "tren100km": 9500
+      },
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Fortuner 7 Chỗ", 
       "soChoNgoi": 7,
-      "giaDichVuMoiKm_VND": 
-      "den100km": 12000,
-      "tren100km": 9500
+      "giaDichVuMoiKm_VND": {
+        "den100km": 12000,
+        "tren100km": 9500
+      },
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Xpander 7 Chỗ",
       "soChoNgoi": 7,
-      "giaDichVuMoiKm_VND": 
-      "den100km": 12000,
-      "tren100km": 9500
+      "giaDichVuMoiKm_VND": {
+        "den100km": 12000,
+        "tren100km": 9500
+      },
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Kia Seltos 5 Chỗ (Gầm cao)",
       "soChoNgoi": 5,
-      "giaDichVuMoiKm_VND": 
-      "den100km": 11000,
-      "tren100km": 9500
+      "giaDichVuMoiKm_VND": {
+        "den100km": 11000,
+        "tren100km": 9500
+      },
       "ghiChu": "Giá dịch vụ tham khảo"
     },
     {
       "loaiXeHoacTenXe": "Hyundai Grand i10 5 Chỗ",
       "soChoNgoi": 5,
-      "giaDichVuMoiKm_VND": 
-      "den100km": 11000,
-      "tren100km": 9500
+      "giaDichVuMoiKm_VND": {
+        "den100km": 11000,
+        "tren100km": 9500
+      },
       "ghiChu": "Giá dịch vụ tham khảo"
     },
     {
       "loaiXeHoacTenXe": "Toyota Vios 5 Chỗ",
       "soChoNgoi": 5,
-      "giaDichVuMoiKm_VND": 
-      "den100km": 11000,
-      "tren100km": 9500
+      "giaDichVuMoiKm_VND": {
+        "den100km": 11000,
+        "tren100km": 9500
+      },
       "ghiChu": "Giá dịch vụ tham khảo"
     },
     {
       "loaiXeHoacTenXe": "Mazda CX-5 5 Chỗ",
       "soChoNgoi": 5,
-      "giaDichVuMoiKm_VND": 
-      "den100km": 11000,
-      "tren100km": 9500
+      "giaDichVuMoiKm_VND": {
+        "den100km": 11000,
+        "tren100km": 9500
+      },
       "ghiChu": "Giá dịch vụ tham khảo"
     },
     {
       "loaiXeHoacTenXe": "Limousine 9/10 Chỗ",
       "soChoNgoi": "9-10",
-      "giaDichVuMoiKm_VND": 
-      "den100km": "Liên Hệ",
-      "tren100km": "Liên Hệ"
+      "giaDichVuMoiKm_VND": {
+        "den100km": "Liên Hệ",
+        "tren100km": "Liên Hệ"
+      },
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Limousine 11/12 Chỗ",
       "soChoNgoi": "11-12",
-      "giaDichVuMoiKm_VND": 
-      "den100km": "Liên Hệ",
-      "tren100km": "Liên Hệ"
+      "giaDichVuMoiKm_VND": {
+        "den100km": "Liên Hệ",
+        "tren100km": "Liên Hệ"
+      },
       "ghiChu": null
     },
     {
-  "loaiXeHoacTenXe": "Các dòng khác (Mercedes, Audi, Rollroys, ...)",
-  "soChoNgoi": "11-12",
-  "giaDichVuMoiKm_VND": {
-    "den100km": "Liên Hệ",
-    "tren100km": "Liên Hệ"
-  },
-  "ghiChu": null
+      "loaiXeHoacTenXe": "Các dòng khác (Mercedes, Audi, Rollroys, ...)",
+      "soChoNgoi": "11-12",
+      "giaDichVuMoiKm_VND": {
+        "den100km": "Liên Hệ",
+        "tren100km": "Liên Hệ"
+      },
+      "ghiChu": null
+    }
+  ] 
 }
