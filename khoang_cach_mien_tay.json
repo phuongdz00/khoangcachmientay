@@ -424,67 +424,89 @@
     {
       "loaiXeHoacTenXe": "Xe 4 Chỗ (Phổ thông)",
       "soChoNgoi": 4,
-      "giaDichVuMoiKm_VND": 8500,
+      "giaDichVuMoiKm_VND":       
+      "den100km": 9500,
+      "tren100km": 8500
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Kia Carnival 7 Chỗ",
       "soChoNgoi": 7,
-      "giaDichVuMoiKm_VND": 17000,
+      "giaDichVuMoiKm_VND":  
+      "den100km": 25000,
+      "tren100km": 19000
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Kia Carnival 8 chỗ",
       "soChoNgoi": 8,
-      "giaDichVuMoiKm_VND": 17000,
+      "giaDichVuMoiKm_VND": 
+      "den100km": 25000,
+      "tren100km": 19000
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Veloz Cross 7 Chỗ", 
       "soChoNgoi": 7,
-      "giaDichVuMoiKm_VND": 9600,
+      "giaDichVuMoiKm_VND": 
+      "den100km": 12000,
+      "tren100km": 9500
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Innova 8 Chỗ",
       "soChoNgoi": 8,
-      "giaDichVuMoiKm_VND": 9600,
+      "giaDichVuMoiKm_VND": 
+      "den100km": 12000,
+      "tren100km": 9500
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Fortuner 7 Chỗ", 
       "soChoNgoi": 7,
-      "giaDichVuMoiKm_VND": 9600,
+      "giaDichVuMoiKm_VND": 
+      "den100km": 12000,
+      "tren100km": 9500
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Xpander 7 Chỗ",
       "soChoNgoi": 7,
-      "giaDichVuMoiKm_VND": 9600,
+      "giaDichVuMoiKm_VND": 
+      "den100km": 12000,
+      "tren100km": 9500
       "ghiChu": null
     },
     {
       "loaiXeHoacTenXe": "Kia Seltos 5 Chỗ (Gầm cao)",
       "soChoNgoi": 5,
-      "giaDichVuMoiKm_VND": 8700,
+      "giaDichVuMoiKm_VND": 
+      "den100km": 11000,
+      "tren100km": 9500
       "ghiChu": "Giá dịch vụ tham khảo"
     },
     {
       "loaiXeHoacTenXe": "Hyundai Grand i10 5 Chỗ",
       "soChoNgoi": 5,
-      "giaDichVuMoiKm_VND": 8700,
+      "giaDichVuMoiKm_VND": 
+      "den100km": 11000,
+      "tren100km": 9500
       "ghiChu": "Giá dịch vụ tham khảo"
     },
     {
       "loaiXeHoacTenXe": "Toyota Vios 5 Chỗ",
       "soChoNgoi": 5,
-      "giaDichVuMoiKm_VND": 8700,
+      "giaDichVuMoiKm_VND": 
+      "den100km": 11000,
+      "tren100km": 9500
       "ghiChu": "Giá dịch vụ tham khảo"
     },
     {
       "loaiXeHoacTenXe": "Mazda CX-5 5 Chỗ",
       "soChoNgoi": 5,
-      "giaDichVuMoiKm_VND": 8700,
+      "giaDichVuMoiKm_VND": 
+      "den100km": 11000,
+      "tren100km": 9500
       "ghiChu": "Giá dịch vụ tham khảo"
     },
     {
